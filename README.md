@@ -1,0 +1,1 @@
+Учебный проект Brain Trainer написан в Android Studio на Java
